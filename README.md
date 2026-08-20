@@ -1,3 +1,4 @@
+<img width="906" height="339" alt="THE COFFEE" src="https://github.com/user-attachments/assets/159da32f-ba40-4330-8caa-b36b52c5785d" />
 # Coffee-Sales-Performance-Dashboard-2025
 Coffee-Sales-Performance-Analysis  
 This project presents an analysis of coffee sales performance across products, months, payment methods, weekdays, and time periods. The objective is to identify purchasing patterns, top-performing products, peak sales periods, and customer payment preferences.
