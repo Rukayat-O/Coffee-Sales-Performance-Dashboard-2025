@@ -1,7 +1,5 @@
 # Coffee-Sales-Performance-Dashboard-2025
 Coffee-Sales-Performance-Analysis  
-Coffee-Sales-Performance-Analysis
-
 This project presents an analysis of coffee sales performance across products, months, payment methods, weekdays, and time periods. The objective is to identify purchasing patterns, top-performing products, peak sales periods, and customer payment preferences.
 
 🔍 Overview
